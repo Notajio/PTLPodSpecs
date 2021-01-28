@@ -32,7 +32,7 @@ s.dependency 'AFNetworking', '~> 4.0'
 s.source_files = "ProductToastLibrary/**/*.{swift}"
 
 # 9
-s.resources = "ProductToastLibrary/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
+s.resources = "ProductToastLibrary/**/*.{png,jpeg,jpg,storyboard,xib,xcassets,strings}"
 
 # 10
 s.swift_version = "5.0"
